@@ -11,7 +11,7 @@ set fileName "beetlejuice.db"
 
 proc handler { nick mask hand channel args} {
 	if {[channel get $channel beetlejuice] && [onchan $nick $channel]} {
-		foreach item $args {
+		foreach item [split $args " "] {
 			if {[regexp -nocase -- {beetlejuice|betelgeuse} $item]} {
 				set ammount [fileHandler $channel]
 				if {[expr $ammount % 3] == 0 && $ammount != 0} { output $channel }
