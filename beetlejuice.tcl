@@ -47,7 +47,7 @@ proc output {channel} {
 		"IT'S SHOWTIME!"
 		"Ah! Oo, oo, oo, oo, ah, ah, ah! Nobody says the 'B' word!"
 		"Ah. Well... I attended Juilliard... I'm a graduate of the Harvard business school. I travel quite extensively. I lived through the Black Plague and had a pretty good time during that. I've seen the EXORCIST ABOUT A HUNDRED AND SIXTY-SEVEN TIMES, AND IT KEEPS GETTING FUNNIER EVERY SINGLE TIME I SEE IT... NOT TO MENTION THE FACT THAT YOU'RE TALKING TO A DEAD GUY... NOW WHAT DO YOU THINK? You think I'm qualified?"
-		"[after kicking down a model tree] Nice fucking model!"
+		"Nice fucking model!"
 		"The only one I think I can deal with is Edgar Allan Poe's daughter. I think she understands me."
 		"Go ahead, make my millenium."
 		"Not so fast, round boy. We're gonna have some laughs."
