@@ -22,6 +22,7 @@ proc fileHandler {channel} {
 	set fh [open $fileName r]
 	set text [join [read $fh]]
 	close $fh
+	set ammount 0
 	set position [lsearch $text $channel]
 	if {$position != -1} {
 		set ammount [lindex $text [expr $position +1]]
